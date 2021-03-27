@@ -1,0 +1,1 @@
+This folder contains simulated data only. To obtain the real data, please see the Supplement of the paper "Inference for stochastic kinetic models from multiple data sources for joint estimation of infection dynamics from aggregate reports and virological data" by Chkrebtii, Garcia, Capistran, and Noyola.
